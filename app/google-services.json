@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061947060485",
+    "firebase_url": "https://giftio.firebaseio.com",
+    "project_id": "giftio",
+    "storage_bucket": "giftio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061947060485:android:863b7de0a2bbdced4cc76c",
+        "android_client_info": {
+          "package_name": "com.example.giftio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061947060485-5c2ctd0e7npjjcimskkpf8t6ppu6oeba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.giftio",
+            "certificate_hash": "50d1fd2ba4b0b3eb87e47ae4f220defb7b4bc442"
+          }
+        },
+        {
+          "client_id": "1061947060485-7m60b4glskbp9n5jc9sbbcklo7bpoq5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp_bA1qiPLHh-DBh3YAKTIBgYDVVyKRbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061947060485-7m60b4glskbp9n5jc9sbbcklo7bpoq5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
